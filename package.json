@@ -1,5 +1,5 @@
 {
-  "name": "team-shoppe-fe",
+  "name": "team-shoppe",
   "version": "1.0.0",
   "description": "Team Shoppe! Using React, GraphQL, Next and Apollo",
   "main": "index.js",
